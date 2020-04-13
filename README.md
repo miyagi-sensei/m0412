@@ -5,7 +5,7 @@ Chinese people said: ``近朱者赤，近墨者黑'', meaning people will be aff
 There are N tomatoes lined up in a straight line numbered from 1 to N respectively. Given some of them are bad at time 0, calculate how many of them are bad from time 1 to time T.
 
 ## Input
-The first line of input contains 3 integers, N, T and M, 1⩽N<2<sup>31</sup> and 0⩽T, M⩽2<sup>13</sup>. Each of next Mlines contains a positive integer less than or equal to N, indicating the number of the tomato which is bad at time 0.
+The first line of input contains 3 integers, N, T and M, 1⩽N<2<sup>31</sup> and 0⩽T, M⩽2<sup>13</sup>. Each of next M lines contains a positive integer less than or equal to N, indicating the number of the tomato which is bad at time 0.
 
 ## Output
 The output should contain a sequence of T integers, each on its own line. The ith integer (1⩽i⩽T)represents the number of tomatoes that are bad at time i.
