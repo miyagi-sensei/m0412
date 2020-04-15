@@ -1,6 +1,6 @@
 # m0412 Tomatoes
 ## Problem Statement
-Chinese people said: ``近朱者赤，近墨者黑'', meaning people will be affected by their neighbors. It happens not only to people, but also to tomatoes. A good tomato placed just next to a bad tomato will become bad in a unit of time.
+Chinese people said: 「近朱者赤，近墨者黑」, meaning people will be affected by their neighbors. It happens not only to people, but also to tomatoes. A good tomato placed just next to a bad tomato will become bad in a unit of time.
 
 There are N tomatoes lined up in a straight line numbered from 1 to N respectively. Given some of them are bad at time 0, calculate how many of them are bad from time 1 to time T.
 
